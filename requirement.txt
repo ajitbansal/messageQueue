@@ -1,0 +1,9 @@
+An in-memory queue system
+    : Now this can be a standalone program with exporting API's
+    : In its centre will be core queue management where the queue object recieves message and pass that to consumer
+    : is going to act as server
+
+A client system:
+    : A application which connects to the server, publish messages to the server and subscribe to topics to receive published messages
+
+
